@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConverterApp</string>
+    <string name="appHeading" />
+    <string name="appHeding">Converter</string>
+    <string name="Centimeter">Centimeter</string>
+    <string name="textResult">0</string>
+</resources>
